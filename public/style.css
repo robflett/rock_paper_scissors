@@ -1,3 +1,16 @@
+
+
 body {
   background-color: #eee8aa;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
 }
